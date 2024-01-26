@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">desafio-thomas-greg</string>
+    <string name="title_tg_clients">Thomas Greg - Clientes</string>
+    <string name="search_view_placeholder">nome do usuário</string>
+</resources>
