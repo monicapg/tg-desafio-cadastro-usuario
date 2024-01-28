@@ -13,13 +13,12 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
-        android:text="Nome"
-        android:textSize="20dp"
+        android:textSize="20sp"
+        tools:text="Alow"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toStartOf="@id/btnEdit"
-        tools:text="Nome" />
+        app:layout_constraintEnd_toStartOf="@id/btnEdit" />
 
     <Button
         android:id="@+id/btnEdit"
@@ -31,6 +30,5 @@
         app:layout_constraintTop_toTopOf="parent"
         android:backgroundTint="@color/btn_bg_primary"
         android:layout_marginEnd="8dp"/>
-        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">desafio-thomas-greg</string>
-    <string name="title_tg_clients">Thomas Greg - Clientes</string>
+    <string name="title_tg_clients">Thomas Greg</string>
     <string name="search_view_placeholder">nome do usuário</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_main">Lista de clientes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
